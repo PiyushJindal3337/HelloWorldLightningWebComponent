@@ -33,6 +33,9 @@
             "c/lifecycleHooks": [
                 "lifecycleHooks/lifecycleHooks.js"
             ],
+            "c/lwcOnCustomObject_lwc": [
+                "lwcOnCustomObject_lwc/lwcOnCustomObject_lwc.js"
+            ],
             "c/myFirstWebComponent": [
                 "myFirstWebComponent/myFirstWebComponent.js"
             ],
@@ -50,6 +53,9 @@
             ],
             "c/viewSource": [
                 "viewSource/viewSource.js"
+            ],
+            "c/lwcOnCustomObject_lwc1": [
+                "lwcOnCustomObject_lwc1/lwcOnCustomObject_lwc1.js"
             ]
         }
     },

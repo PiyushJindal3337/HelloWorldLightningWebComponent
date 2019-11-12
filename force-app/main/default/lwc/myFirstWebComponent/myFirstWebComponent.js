@@ -1,7 +1,8 @@
-import { LightningElement, track } from 'lwc';
+import { LightningElement, track, api } from 'lwc';
 
 export default class MyFirstWebComponent extends LightningElement 
 {
+    @api greeting ;
     @track contacts = [
         {
             Id : 1,
