@@ -56,6 +56,12 @@
             ],
             "c/lwcOnCustomObject_lwc1": [
                 "lwcOnCustomObject_lwc1/lwcOnCustomObject_lwc1.js"
+            ],
+            "c/asm_UserSignUpPage": [
+                "asm_UserSignUpPage/asm_UserSignUpPage.js"
+            ],
+            "c/asm_assestDetailsPage": [
+                "asm_assestDetailsPage/asm_assestDetailsPage.js"
             ]
         }
     },
